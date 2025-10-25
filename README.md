@@ -2,6 +2,8 @@
 
 **WeatherNow** is a mini React project that allows users to search for current weather information of any city. It fetches real-time data from the **OpenWeatherMap API** and displays it in a clean, interactive card layout with vibrant visuals and icons representing different weather conditions.
 
+website is live at- https://urdharesh.github.io/WeatherNow/
+
 ---
 
 ## 🔹 Features
